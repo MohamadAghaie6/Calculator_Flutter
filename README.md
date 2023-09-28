@@ -2,5 +2,5 @@
 
 A calculator with Flutter 
 
-![uiImage](Screenshot_1695930420.png)
+![uiImage](Screenshot1.png)
 
